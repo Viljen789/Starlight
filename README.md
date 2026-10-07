@@ -1,6 +1,6 @@
 # Starlight AI
-"En brikke om gangen"
-# Om Starlight
+AI-amatører sitt forsøk på en fungerende LLM
+# Om prosjektet
 Vi er to ambisiøse studenter som begge har hatt et øye for AI siden 2022, når vi prøvde oss på et konsulent-prosjekt ved navn Starlight. Hovedformålet med det prosjektet var å bruke AI til å forbedre arbeidsflyt for potensielle kunder. Vi kom oss aldri langt nok inn i prosessen ettersom AI var langt ifra like bra som det er nå. Vi har dermed bestemt oss for å prøve oss på et ganske mye mer krevende prosjekt med grunnlag i at begge studerer dataingeniør på NTNU, og vil ha noe litt mer krevende å holde på med på siden.
 
 
