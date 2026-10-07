@@ -29,7 +29,7 @@ Et læringsprosjekt ved siden av studier der vi bygger opp vår forståelse fra 
 
 | Fase | Tema | Mnd | Status |
 |---|---|---|---|
-| 0 | Grunnlag | 1-3 | Ikke startet |
+| 0 | Grunnlag | 1-3 | Pågår |
 | 1 | Nevralt nett i NumPy | 3-5 | Ikke startet |
 | 2 | CUDA-grunnlag | 5-8 | Ikke startet |
 | 3 | Nettet i CUDA | 8-10 | Ikke startet |
