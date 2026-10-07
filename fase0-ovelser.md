@@ -2,7 +2,7 @@
 
 Kilde: Claude Code / Claude
 
-Dropper bevisst del A og B ettersom begge har mer enn grunnleggende nok kunnskaper i disse oppgavene.
+Dropper bevisst del A og B ettersom begge har mer enn grunnleggende nok kunnskaper i disse oppgavene. Dropper også E ettersom det er Git og er veldig veldig grunnleggende.
 Anbefalt rekkefølge og tid (estimat): A Matte (1-2 uker), B Derivasjon (1-2 uker), C NumPy (1-2 uker), D C/C++ (3-4 uker), E Git (1 dag).
 
 **Slik jobber du:** regn og forutsi svaret for hånd først, skriv koden fra tom fil, og sjekk mot fasit.
@@ -61,13 +61,7 @@ Anbefalt rekkefølge og tid (estimat): A Matte (1-2 uker), B Derivasjon (1-2 uke
 Det finnes ikke ett fasitsvar. Sjekk at (3) gir riktig sum, at (5) gir `[[2,1],[4,3]]` for A2, og at (4) og (6) gir en tydelig feilrapport fra sanitizeren.
 </details>
 
----
 
-## E. Git
-
-1. `git init`, lag en fil, `git add`, `git commit`.
-2. Lag en branch, gjør en endring, og lag en pull request på GitHub.
-3. Gjør en endring hver og se hvordan en merge-konflikt ser ut, og løs den.
 
 ---
 
