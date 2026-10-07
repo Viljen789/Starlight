@@ -3,7 +3,7 @@
 
 Et læringsprosjekt ved siden av studier der vi bygger opp vår forståelse fra grunnen: nevralt nett i NumPy, GPU-programmering i CUDA, og deretter en liten språkmodell. Målet er å forstå og kunne forklare hvert steg, ikke bare å få noe til å kjøre.
 
-> Tidsanslagene er estimater for ca. 5-8 timer i uka ved siden av studiene. Planen justeres underveis, og status oppdateres ærlig. Vi stiller lite krav til å møte disse estimatene, ettersom dette blir et hobbyprosjekt.
+> Tidsanslagene er estimater for alt mellom 2-8 timer i uka ved siden av studiene. Planen justeres underveis, og status oppdateres ærlig. Vi stiller lite krav til å møte disse estimatene, ettersom dette blir et hobbyprosjekt.
 
 ## Status
 
