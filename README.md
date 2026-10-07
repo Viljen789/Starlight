@@ -39,9 +39,9 @@ Et læringsprosjekt ved siden av studier der vi bygger opp vår forståelse fra 
 
 ## Fase 0: Grunnlag (mnd 1-3)
 - [ ] C/C++: pekere, arrayer, `malloc`/`free`, kompilering med `g++`
-- [ ] Matte: matrisemultiplikasjon, transponering, kjerneregelen (derivasjon)
-- [ ] Python/NumPy: arrayer, former (shapes), broadcasting
-- [ ] Git-arbeidsflyt: branches og pull requests mellom oss
+- [V] Matte: matrisemultiplikasjon, transponering, kjerneregelen (derivasjon)
+- [V] Python/NumPy: arrayer, former (shapes), broadcasting
+- [V] Git-arbeidsflyt: branches og pull requests mellom oss
 - **Resultat:** små øvelser i repoet og en læringslogg i `notater/`
 
 ## Fase 1: Nevralt nett fra scratch i NumPy (mnd 3-5)
