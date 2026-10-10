@@ -10,7 +10,7 @@ Vi studerer begge dataingeniør på NTNU i Trondheim, og har kjent hverandre sid
 | | |
 |---|---|
 | **Eirik** | Første års dataingeniør-student ved NTNU i Trondheim. Veldig mange hobbyer, men eksempler kan være friluftsliv, gaming, alt av idrett, og ikke minst programmering. [GitHub](https://github.com/eirik-bl) · [LinkedIn](https://www.linkedin.com/in/eirik-brun-lunde-5601bb248/) |
-| **Viljen** | Tredje års datateknologi-student ved NTNU i Trondheim. Interessert i fallskjermhopping, popcorn, friidrett og veldig interessert i tog. [GitHub](https://github.com/Viljen789) · [LinkedIn](https://linkedin.com/in/brukernavn) |
+| **Viljen** | Tredje års datateknologi-student ved NTNU i Trondheim. Interessert i det meste teknologi-retta, ulike typer programmering, har drevet med konkurranseprogrammering, og synest C++ og generelt lav-level og mattematikk relatert programmering er spennende. [GitHub](https://github.com/Viljen789) · [LinkedIn](https://linkedin.com/in/viljen-apalset-vassbo) |
 
 
 
